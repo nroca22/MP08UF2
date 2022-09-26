@@ -13,6 +13,7 @@
 ### Pressupost Mensual i Anual
 Per al plan que hem de contractar, farem servir el servei de Google Workspace Business Standard, aquest té un preu de 9,36€ al més per usuari, i ens ofereix els 2TB d’emmagatzematge que necessitem.
  
-Aquest seria el cost del servei de forma mensual, anual i cada 5 anys:
+Aquest seria el cost del servei de forma mensual, anual i cada 5 anys: 
 
-![captura1](caspr1cap1.png)
+![captura1](caspr1cap2.png) ![captura1](caspr1cap1.png) 
+
