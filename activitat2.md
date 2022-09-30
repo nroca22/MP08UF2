@@ -42,3 +42,8 @@ Creem l'usuari "owncloud" amb la seva contrasenya "Admin1234".
 Li donem accés a l'usuari que acabem de crear a la base de dades de owncloud
 
 `GRANT ALL ON owncloud.* TO 'ownclouduser'@'localhost' IDENTIFIED BY 'Admin1234' WITH GRANT OPTION;`
+
+Apliquem els cambis amb 
+`FLUSH PRIVILEGES;
+EXIT;`
+I sortim.
