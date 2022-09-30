@@ -24,7 +24,7 @@ I configurem la nostra instalació
 `sudo mysql_secure_installation`
 
 Per ultim reiniciem el servei de MariaDB
-`sudo systemctl restart mariadb.service` o `sudo service mariadb.service restart`
+`sudo systemctl restart mariadb.service' o 'sudo service mariadb.service restart`
 
 # Creem la base de dades per Owncloud
 Entrem a MariaDB
