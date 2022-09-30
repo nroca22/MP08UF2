@@ -29,6 +29,17 @@ I configurem la nostra instalació
 
 `sudo mysql_secure_installation`
 
+![captura1](caspr2cap4.png)
+
+Tot seguit, ens demanarà unes opcións de configuració;
+Change the root password: no
+Remove anonymous users?: y
+Disallow root login remotely?: y
+Remove test databases and acces to it?: y
+Reload privilege tables now?: y
+
+Totes aquestes són opcións de seguretat.
+
 Per ultim reiniciem el servei de MariaDB
 `sudo systemctl restart mariadb.service' o 'sudo service mariadb.service restart`
 
