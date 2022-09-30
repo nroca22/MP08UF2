@@ -28,13 +28,17 @@ Per ultim reiniciem el servei de MariaDB
 
 # Creem la base de dades per Owncloud
 Entrem a MariaDB
+
 `sudo mysql -u root -p`
 
 Creem la base de dades
+
 `CREATE DATABASE owncloud;`
 
 Creem l'usuari "owncloud" amb la seva contrasenya "Admin1234".
+
 `CREATE USER 'ownclouduser'@'localhost' IDENTIFIED BY 'Admin1234';`
 
 Li donem accés a l'usuari que acabem de crear a la base de dades de owncloud
+
 `GRANT ALL ON owncloud.* TO 'ownclouduser'@'localhost' IDENTIFIED BY 'Admin1234' WITH GRANT OPTION;`
