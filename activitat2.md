@@ -12,12 +12,18 @@
 Instalem el servidor Apache amb la seguent comanda:
 `sudo apt install apache2`
 
+![captura1](caspr2cap1.png)
+
 Desactivem el llista de directoris del servidor:
 `sudo sed -i "s/Options Indexes FollowSymLinks/Options FollowSymLinks/" /etc/apache2/apache2.conf`
+
+![captura1](caspr2cap2.png)
 
 ### Instalem MariaDB
 Instalem el gestor de bases de dades MariaDB:
 `sudo apt-get install mariadb-server mariadb-client -y`
+
+![captura1](caspr2cap3.png)
 
 I configurem la nostra instalació
 
