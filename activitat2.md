@@ -111,12 +111,20 @@ Descarregem la ultima versió del programa i descomprimim els fitxers, amés mov
 
 `cd /tmp && wget https://download.owncloud.com/server/stable/owncloud-complete-latest.zip`
 
+![captura1](caspr2cap16.png)
+
 `unzip owncloud-10.0.8.zip`
 
+![captura1](caspr2cap17.png)
+
 `sudo mv owncloud /var/www/html/owncloud/`
+
+![captura1](caspr2cap18.png)
 
 Cambiem el propietari i permís dels directoris d'Owncloud. www-data per a que els pugui utilitzar Apache, 755 para que els puga executar i llegir cualsevol usuari de linux.
 
 `sudo chown -R www-data:www-data /var/www/html/owncloud/`
 
 `sudo chmod -R 755 /var/www/html/owncloud/`
+
+![captura1](caspr2cap19.png)
