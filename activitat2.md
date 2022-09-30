@@ -41,20 +41,28 @@ Reload privilege tables now?: y
 Totes aquestes són opcións de seguretat.
 
 Per ultim reiniciem el servei de MariaDB
-`sudo systemctl restart mariadb.service' o 'sudo service mariadb.service restart`
+`sudo systemctl restart mariadb.service`
+
+![captura1](caspr2cap5.png)
 
 ### Creem la base de dades per Owncloud
 Entrem a MariaDB
 
 `sudo mysql -u root -p`
 
+![captura1](caspr2cap6.png)
+
 Creem la base de dades
 
 `CREATE DATABASE owncloud;`
 
+![captura1](caspr2cap7.png)
+
 Creem l'usuari "owncloud" amb la seva contrasenya "Admin1234".
 
 `CREATE USER 'ownclouduser'@'localhost' IDENTIFIED BY 'Admin1234';`
+
+![captura1](caspr2cap8.png)
 
 Li donem accés a l'usuari que acabem de crear a la base de dades de owncloud
 
