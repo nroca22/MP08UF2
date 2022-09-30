@@ -86,11 +86,17 @@ Apliquem els cambis amb  `FLUSH PRIVILEGES;` i `EXIT;` i sortim.
 Actualitzem els paquets que acabem d'afegir amb
 `sudo apt update`
 
+![captura1](caspr2cap13.png)
+
 Instalem PHP amb tots els moduls que necessitarem
 `sudo apt install php7.4 libapache2-mod-php7.4 php7.4-common php7.4-mbstring php7.4-xmlrpc php7.4-soap php7.4-apcu php7.4-smbclient php7.4-ldap php7.4-redis php7.4-gd php7.4-xml php7.4-intl php7.4-json php7.4-imagick php7.4-mysql php7.4-cli php7.4-mcrypt php7.4-ldap php7.4-zip php7.4-curl -y`
 
+![captura1](caspr2cap14.png)
+
 Després de la instalació editem el fitxer php.ini i cambiem alguns dels seus valors
-`sudo nano /etc/php/7.1/apache2/php.ini`
+`sudo nano /etc/php/7.4/apache2/php.ini`
+
+![captura1](caspr2cap15.png)
 
 Els valors a cambiar són els seguents:
 `file_uploads = On`
