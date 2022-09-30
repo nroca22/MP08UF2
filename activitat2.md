@@ -32,11 +32,11 @@ I configurem la nostra instalació
 ![captura1](caspr2cap4.png)
 
 Tot seguit, ens demanarà unes opcións de configuració;
-Change the root password: no
-Remove anonymous users?: y
-Disallow root login remotely?: y
-Remove test databases and acces to it?: y
-Reload privilege tables now?: y
+* Change the root password: no
+* Remove anonymous users?: y
+* Disallow root login remotely?: y
+* Remove test databases and acces to it?: y
+* Reload privilege tables now?: y
 
 Totes aquestes són opcións de seguretat.
 
@@ -68,11 +68,20 @@ Li donem accés a l'usuari que acabem de crear a la base de dades de owncloud
 
 `GRANT ALL ON owncloud.* TO 'ownclouduser'@'localhost' IDENTIFIED BY 'Admin1234' WITH GRANT OPTION;`
 
+![captura1](caspr2cap9.png)
+
 Apliquem els cambis amb  `FLUSH PRIVILEGES;` i `EXIT;` i sortim.
+
+![captura1](caspr2cap10.png)
 
 ### Instalem PHP i tots els moduls necessaris
 `sudo apt-get install software-properties-common -y`
+
+![captura1](caspr2cap11.png)
+
 `sudo add-apt-repository ppa:ondrej/php`
+
+![captura1](caspr2cap12.png)
 
 Actualitzem els paquets que acabem d'afegir amb
 `sudo apt update`
