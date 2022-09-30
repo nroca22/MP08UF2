@@ -8,14 +8,14 @@
 * Instalar Owncloud
 
 
-# Instalar Apache
+### Instalar Apache
 Instalem el servidor Apache amb la seguent comanda:
 `sudo apt install apache2`
 
 Desactivem el llista de directoris del servidor:
 `sudo sed -i "s/Options Indexes FollowSymLinks/Options FollowSymLinks/" /etc/apache2/apache2.conf`
 
-# Instalar MariaDB
+### Instalar MariaDB
 Instalem el gestor de bases de dades MariaDB:
 `sudo apt-get install mariadb-server mariadb-client -y`
 
@@ -26,7 +26,7 @@ I configurem la nostra instalació
 Per ultim reiniciem el servei de MariaDB
 `sudo systemctl restart mariadb.service' o 'sudo service mariadb.service restart`
 
-# Creem la base de dades per Owncloud
+### Creem la base de dades per Owncloud
 Entrem a MariaDB
 
 `sudo mysql -u root -p`
@@ -45,7 +45,7 @@ Li donem accés a l'usuari que acabem de crear a la base de dades de owncloud
 
 Apliquem els cambis amb  `FLUSH PRIVILEGES;` i `EXIT;` i sortim.
 
-# Instalem PHP i tots els moduls necessaris
+### Instalem PHP i tots els moduls necessaris
 `sudo apt-get install software-properties-common -y`
 `sudo add-apt-repository ppa:ondrej/php`
 
@@ -66,7 +66,7 @@ Els valors a cambiar són els seguents:
 `display_errors = Off`
 `date.timezone = Europe/Madrid`
 
-# Instalem Owncloud
+### Instalem Owncloud
 Descarregem la ultima versió del programa i descomprimim els fitxers, amés movem aquestos fitxers d'Owncloud a "/var/www/html/owncloud"
 
 `cd /tmp && wget https://download.owncloud.com/server/stable/owncloud-complete-latest.zip`
