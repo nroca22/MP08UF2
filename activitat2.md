@@ -141,15 +141,15 @@ canviar ServerName
 
 canviar ServerAlias
 
-<VirtualHost *:80>
+`<VirtualHost *:80>
     ServerAdmin admin@example.com
     DocumentRoot /var/www/html/owncloud/
     ServerName owncloud.NRM.com
     ServerAlias www.owncloud.NRM.com
     
-    Alias /owncloud "/var/www/html/owncloud/"
+   Alias /owncloud "/var/www/html/owncloud/"
     
-    <Directory /var/www/html/owncloud/>
+   <Directory /var/www/html/owncloud/>
       Options +FollowSymlinks
       AllowOverride All
       Require all granted
@@ -160,8 +160,8 @@ canviar ServerAlias
       SetEnv HTTP_HOME /var/www/html/owncloud
     </Directory
     
-    ErrorLog ${APACHE_LOG_DIR}/error.log
-    CustomLog ${APACHE_LOG_DIR}/access.log combined
+   ErrorLog ${APACHE_LOG_DIR}/error.log
+   CustomLog ${APACHE_LOG_DIR}/access.log combined
 
 </VirtualHost>
 
