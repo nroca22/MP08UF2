@@ -172,5 +172,3 @@ canviar ServerAlias
 `sudo a2ensite owncloud.conf`
 
 `service apache2 restart`
-
-
