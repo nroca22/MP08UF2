@@ -133,9 +133,6 @@ Cambiem el propietari i permís dels directoris d'Owncloud. www-data per a que e
 sudo nano /etc/hosts
 127.0.0.1     owncloud.NRM.com
 
-//cd /etc/apache2/sites-available 
-
-
 sudo nano /etc/apache2/sites-available/owncloud.conf
 copiar info de ![infoxavi](https://dungeonofbits.com/images/owncloud1.jpg)
 canviar ServerName
