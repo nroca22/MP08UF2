@@ -144,8 +144,8 @@ canviar ServerAlias
 <VirtualHost *:80>
     ServerAdmin admin@example.com
     DocumentRoot /var/www/html/owncloud/
-    ServerName owncloud.NRM.com
-    ServerAlias www.owncloud.NRM.com
+    ServerName owncloud.nrm.com
+    ServerAlias www.owncloud.nrm.com
     
    Alias /owncloud "/var/www/html/owncloud/"
     
