@@ -140,8 +140,8 @@ copiar info de ![infoxavi](https://dungeonofbits.com/images/owncloud1.jpg)
 canviar ServerName
 
 canviar ServerAlias
-
-`<VirtualHost *:80>
+```
+<VirtualHost *:80>
     ServerAdmin admin@example.com
     DocumentRoot /var/www/html/owncloud/
     ServerName owncloud.NRM.com
@@ -164,8 +164,13 @@ canviar ServerAlias
    CustomLog ${APACHE_LOG_DIR}/access.log combined
 
 </VirtualHost>
+```
+
 
 `cd etc/apache2/sites-available`
+
 `sudo a2ensite owncloud.conf`
+
 `service apache2 restart`
+
 
