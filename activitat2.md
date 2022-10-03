@@ -134,6 +134,38 @@ Cambiem el propietari i permís dels directoris d'Owncloud. www-data per a que e
 127.0.0.1     owncloud.NRM.com
 
 `sudo nano /etc/apache2/sites-available/owncloud.conf`
+
 copiar info de ![infoxavi](https://dungeonofbits.com/images/owncloud1.jpg)
+
 canviar ServerName
+
 canviar ServerAlias
+
+<VirtualHost *:80>
+    ServerAdmin admin@example.com
+    DocumentRoot /var/www/html/owncloud/
+    ServerName owncloud.NRM.com
+    ServerAlias www.owncloud.NRM.com
+    
+    Alias /owncloud "/var/www/html/owncloud/"
+    
+    <Directory /var/www/html/owncloud/>
+      Options +FollowSymlinks
+      AllowOverride All
+      Require all granted
+        <IfModule mod_dav.c>
+          Dav off
+        </IfModule>
+      SetEnv HOME /var/www/html/owncloud
+      SetEnv HTTP_HOME /var/www/html/owncloud
+    </Directory
+    
+    ErrorLog ${APACHE_LOG_DIR}/error.log
+    CustomLog ${APACHE_LOG_DIR}/access.log combined
+
+</VirtualHost>
+
+`cd etc/apache2/sites-available`
+`sudo a2ensite owncloud.conf`
+`service apache2 restart`
+
