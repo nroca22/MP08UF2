@@ -140,6 +140,7 @@ copiar info de ![infoxavi](https://dungeonofbits.com/images/owncloud1.jpg)
 canviar ServerName
 
 canviar ServerAlias
+
 ```
 <VirtualHost *:80>
     ServerAdmin admin@example.com
