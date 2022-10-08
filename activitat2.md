@@ -129,17 +129,21 @@ Cambiem el propietari i permís dels directoris d'Owncloud. www-data per a que e
 
 ![captura19](caspr2cap19.png)
 
+Editarem el fiter hosts, que ens servirà per redirigir la adreça "owncloud.nrm,com" a 127.0.0.1, aquést fitxer actua de forma similar a un DNS:
 
 `sudo nano /etc/hosts`
+
+On afegirem la següent línia:
+
 127.0.0.1     owncloud.NRM.com
+
+![captura20](caspr2cap20.png)
+
+Ara crearem l'arxiu owncloud.conf a la carpeta d'apache de sites-available:
 
 `sudo nano /etc/apache2/sites-available/owncloud.conf`
 
-copiar info de ![infoxavi](https://dungeonofbits.com/images/owncloud1.jpg)
-
-canviar ServerName
-
-canviar ServerAlias
+I introduïrem les següents línies:
 
 ```
 <VirtualHost *:80>
@@ -167,9 +171,24 @@ canviar ServerAlias
 </VirtualHost>
 ```
 
+![captura21](caspr2cap21.png)
 
-`cd etc/apache2/sites-available`
+Després entrarem a la carpeta de sites-available:
 
-`sudo a2ensite owncloud.conf`
+![captura22](caspr2cap22.png)
 
-`service apache2 restart`
+I utilitzarem la comanda a2ensite amb el fitxer que acabem de crear, amb el paràmentre de sudo:
+
+![captura23](caspr2cap23.png)
+
+Tot següit reiniciarem el servei de apache2, amb `sudo service restart apache2` o amb `sudo systemctl restart apache2`
+
+![captura24](caspr2cap24.png)
+
+Ara comprovarém que apache s'hagi engegat correctament:
+
+![captura25](caspr2cap25.png)
+
+Si s'ha engegat correctament podem comprovar que ens redirigeixi correctament, introduïnt l'adreça al navegador:
+
+![captura26](caspr2cap26.png)
