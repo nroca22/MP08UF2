@@ -163,7 +163,7 @@ I introduïrem les següents línies:
         </IfModule>
       SetEnv HOME /var/www/html/owncloud
       SetEnv HTTP_HOME /var/www/html/owncloud
-    </Directory
+    </Directory>
     
    ErrorLog ${APACHE_LOG_DIR}/error.log
    CustomLog ${APACHE_LOG_DIR}/access.log combined
