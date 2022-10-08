@@ -137,7 +137,7 @@ On afegirem la següent línia:
 
 127.0.0.1     owncloud.NRM.com
 
-![captura20](caspr2cap20.png)
+![captura20](caspr2cap20.PNG)
 
 Ara crearem l'arxiu owncloud.conf a la carpeta d'apache de sites-available:
 
@@ -171,24 +171,24 @@ I introduïrem les següents línies:
 </VirtualHost>
 ```
 
-![captura21](caspr2cap21.png)
+![captura21](caspr2cap21.PNG)
 
 Després entrarem a la carpeta de sites-available:
 
-![captura22](caspr2cap22.png)
+![captura22](caspr2cap22.PNG)
 
 I utilitzarem la comanda a2ensite amb el fitxer que acabem de crear, amb el paràmentre de sudo:
 
-![captura23](caspr2cap23.png)
+![captura23](caspr2cap23.PNG)
 
 Tot següit reiniciarem el servei de apache2, amb `sudo service restart apache2` o amb `sudo systemctl restart apache2`
 
-![captura24](caspr2cap24.png)
+![captura24](caspr2cap24.PNG)
 
 Ara comprovarém que apache s'hagi engegat correctament:
 
-![captura25](caspr2cap25.png)
+![captura25](caspr2cap25.PNG)
 
 Si s'ha engegat correctament podem comprovar que ens redirigeixi correctament, introduïnt l'adreça al navegador:
 
-![captura26](caspr2cap26.png)
+![captura26](caspr2cap26.PNG)
