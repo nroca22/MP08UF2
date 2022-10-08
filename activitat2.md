@@ -203,4 +203,7 @@ usuari nroca  contrasenya nroca
 
 ![captura27](caspr2cap27.png)
 
+Si tot està configurat correctament, auriem de poder veure la pàgina del gestor d'arxius d'owncloud
+
+![captura28](caspr2cap28.png)
 
