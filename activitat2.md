@@ -127,6 +127,8 @@ Cambiem el propietari i permís dels directoris d'Owncloud. www-data per a que e
 
 `sudo chmod -R 755 /var/www/html/owncloud/`
 
+### Configurar /etc/hosts
+
 ![captura19](caspr2cap19.png)
 
 Editarem el fiter hosts, que ens servirà per redirigir la adreça "owncloud.nrm,com" a 127.0.0.1, aquést fitxer actua de forma similar a un DNS:
@@ -192,3 +194,13 @@ Ara comprovarém que apache s'hagi engegat correctament:
 Si s'ha engegat correctament podem comprovar que ens redirigeixi correctament, introduïnt l'adreça al navegador:
 
 ![captura26](caspr2cap26.PNG)
+
+### Configurar usuari i base de dades en owncloud
+
+Necessitem crear un usuari i contrasenya d'administrador, indicar el directori de la base de dades que hem creat anteriorment, l'usuari, contrasenya, el nom, i el host:
+
+usuari nroca  contrasenya nroca
+
+![captura27](caspr2cap27.png)
+
+
