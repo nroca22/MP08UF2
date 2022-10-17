@@ -66,3 +66,37 @@ Crea 6 fitxers de 100MB i pujal's a Owncloud un per un.
 
 ![captura1](caspr4cap20.png)
 
+### 4.13.- Entra a Market instal·la dues aplicacions que no estiguin ja instal·lades i explica què fan i com funcionen.
+
+La primera app és un calendari amb el nom "Calendar" i ens surt com una altra opció del submenú de la part superior esquerra:
+
+![captura1](caspr4cap21.png)
+
+![captura1](caspr4cap22.png)
+
+![captura1](caspr4cap23.png)
+
+La segona app és un reproductor de música a l'estil de iTunes i Groove Music, i a l'igual que el calendari també ens surt com una altra opció del submenú d'aplicacions:
+
+![captura1](caspr4cap24.png)
+
+![captura1](caspr4cap25.png)
+
+![captura1](caspr4cap26.png)
+
+### 4.14.- Crearem una carpeta nova per emmagatzematge a Owncloud, la carpeta serà /media/publicXYZ on XYZ són les teves inicials i apareixerà amb el nom de public als usuaris. Aquesta carpeta haurà de pertànyer a l'usuari www-data.
+
+![captura1](caspr4cap27.png)
+
+### 4.15.- Connectarem la carpeta publicXYZ com emmagatzematge local, tal i com s'indica aquí. Tots els usuaris tindran accés a la carpeta.
+
+![captura1](caspr4cap28.png)
+
+![captura1](caspr4cap29.png)
+
+![captura1](caspr4cap30.png)
+
+### 4.16.- Un usuari normal pujarà un fitxer a la carpeta public.
+
+![captura1](caspr4cap31.png)
+
