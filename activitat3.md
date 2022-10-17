@@ -84,5 +84,19 @@ Tenim d'anar a la configuració de owncloud a la part dreta superior de l'usuari
 ![captura2](caspr3cap8.png)
 
 **Afegeix el teu mail de l'Institut.**
+
+Al mateix apartat que l'anterior pregunta tenim una caixa d'informació i al costat un botó que es diu "Set email" que ens servirà per actualitzar l'adreça de l'usuari.
+
+![captura2](caspr3cap9.png)
+
 **Canvia l'idioma a català.**
+
+Des-de la configuració de l'usuari administrador podem canviar l'idioma al català:
+
+![captura2](caspr3cap10.png)
+
 **Mostra la versió d'Owncloud instal·lada.**
+
+Ho podem veure al final de la pàgina de configuració amb l'usuari administrador podem veure la versió actualment instal·lada:
+
+![captura2](caspr3cap11.png)
