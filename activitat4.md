@@ -60,3 +60,9 @@ Crea 6 fitxers de 100MB i pujal's a Owncloud un per un.
 
 ### 4.12.- Com a usuariXYZ crea una carpeta nova anomenada shared i comparteix-la amb l'usuari usuari2XYZ.
 
+![captura1](caspr4cap18.png)
+
+![captura1](caspr4cap19.png)
+
+![captura1](caspr4cap20.png)
+
