@@ -44,3 +44,19 @@ Crea 6 fitxers de 100MB i pujal's a Owncloud un per un.
 
 ### 4.9.- Comparteix un fitxer de usuariXYZ a usuari2XYZ i mostra com l'usuari2XYZ pot veure i descarregar el fitxer.
 
+![captura1](caspr4cap13.png)
+
+![captura1](caspr4cap14.png)
+
+### 4.10.- Esborra la carpeta Learn more about owncloud.
+
+![captura1](caspr4cap15.png)
+
+### 4.11.- Recupera la carpeta Learn more about owncloud.
+
+![captura1](caspr4cap16.png)
+
+![captura1](caspr4cap17.png)
+
+### 4.12.- Com a usuariXYZ crea una carpeta nova anomenada shared i comparteix-la amb l'usuari usuari2XYZ.
+
