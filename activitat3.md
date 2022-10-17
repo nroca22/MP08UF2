@@ -35,16 +35,24 @@ Alternativament, s'encripten les dades utilitzant un servidor HSM (Hardware Secu
 S'encripta el tràfic i només poden veure el missatge o arxiu el servidor i l'usuari que intenta accedir-hi.
 
 **Per quina raó ens recomana utilitzar Owncloud per als documents de Microsoft Office de la nostra empresa?**
+
 Pagant per les extensions de la seva marketplace com, Collabora Online, i OnlyOffice, pots veure i editar els fitxers de office de forma remota.
 
 **Això passa a tots els països?**
 
+Sí
 
 **Quina és la llicència d'Owncloud Enterprise?**
 
+Pagues una mensualitat per usuari, i et dona beneficis:
+
+![captura2](caspr3cap5.png)
 
 **I la d'Owncloud Standard?**
 
+Funciona de la mateixa forma que owncloud enterprise pero amb diferents beneficis
+
+![captura2](caspr3cap6.png)
 
 
 **Es poden veure videos en Streaming directament des de Owncloud?**
@@ -54,9 +62,27 @@ Si que es poden veure videos:
 ![captura2](caspr3cap3.png)
 
 **Es poden connectar directoris de Google Drive a Owncloud?**
-Necessitem anar a la configuració de usuari, i després a emmagatzematge, habilitar l'emmagatzematge extern i afegir una connexió de Google Drive
 
-![captura2](caspr3cap4.png)
+Es pot configurar un accés desde l'emmagatzematge extern.
 
 **I Dropbox?**
+
+Amb extensións del marketplace
+
 **Compta Owncloud amb antivirus? En cas afirmatiu com es diu?**
+
+Necessites instal·lar una aplicació apart.
+
+### 3.4.- Mostra els següents canvis de paràmetres d'usuari:
+
+**Posa't una imatge d'usuari.**
+
+Tenim d'anar a la configuració de owncloud a la part dreta superior de l'usuari i següir aquestos passos:
+
+![captura2](caspr3cap7.png)
+
+![captura2](caspr3cap8.png)
+
+**Afegeix el teu mail de l'Institut.**
+**Canvia l'idioma a català.**
+**Mostra la versió d'Owncloud instal·lada.**
