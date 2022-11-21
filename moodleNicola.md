@@ -1,14 +1,19 @@
 ## Instal·lació de Moodle
-Per instal·lar moodle necessitem: Apache, PHP i MySQL
+Per instal·lar moodle necessitem: Apache, PHP i MariaDB
 
 - Instal·lació de Apache
 ![image](https://user-images.githubusercontent.com/114423065/203127704-afe933bb-88cb-4b1f-afb0-26ab1d84a810.png)
 
-I comprovarém que funciona correctament accedit a la ip de la màquina
+- Comprovar que Apache funciona correctament des-de la maquina host
 ![image](https://user-images.githubusercontent.com/114423065/203127966-26bb4465-fb92-437f-a7d0-3059af31b8ae.png)
 
 
-- Instal·lació de MySQL
+- Instal·lació de MariaDB
+![image](https://user-images.githubusercontent.com/114423065/203129660-c78df4dd-f018-4ab1-aa06-3d6589f0ac95.png)
+
+
+- Configuració de MariaDB
+
 
 
 - Instal·lació de PHP
