@@ -1,7 +1,9 @@
-## Instal·lació de Moodle
+# Instal·lació de Moodle
 Per instal·lar moodle necessitem: Apache, PHP i MariaDB
 
-#### Apache
+## Instal·lació de complements
+
+### Apache
 
 - Instal·lació de Apache
 
@@ -13,8 +15,7 @@ Per instal·lar moodle necessitem: Apache, PHP i MariaDB
 
 ![image](https://user-images.githubusercontent.com/114423065/203127966-26bb4465-fb92-437f-a7d0-3059af31b8ae.png)
 
-#### MariaDB
-
+### MariaDB
 
 - Instal·lació de MariaDB
 
@@ -24,8 +25,14 @@ Per instal·lar moodle necessitem: Apache, PHP i MariaDB
 
 - Configuració de MariaDB
 
+![image](https://user-images.githubusercontent.com/114423065/203130285-8db94184-317b-4481-81b4-3d2544f9d4be.png)
 
-#### PHP
+- Reiniciarem el serveri de MariaDB
+
+![image](https://user-images.githubusercontent.com/114423065/203130850-ec62543d-90e3-4f8a-9143-1045e500d0a3.png)
+
+
+### PHP
 
 - Afegir el repositori `ppa:ondrej/php`
 
@@ -36,4 +43,16 @@ Per instal·lar moodle necessitem: Apache, PHP i MariaDB
 - Instal·lar PHP 7.3
 
 ![image](https://user-images.githubusercontent.com/114423065/203127038-5be54abd-75df-4f6e-91d4-c0f1d3ba52f0.png)
+
+
+## Descarrega i configuració de moodle
+Amb la comanda `wget` descarregarem l'ultima versiò de moodle des-de la pàgina oficial.
+
+`wget https://download.moodle.org/download.php/direct/stable400/moodle-latest-400.zip`
+
+![image](https://user-images.githubusercontent.com/114423065/203131762-9817a25f-821e-46f1-ab3f-b335f1745143.png)
+
+Descomprimirem el fitxer amb unzip i el fitxer que acabem de descarregar. (nota, cal tenir el paquet zip instal·lat) 
+
+![image](https://user-images.githubusercontent.com/114423065/203132044-556ae30a-9de7-49d1-961d-1ac238ee0963.png)
 
