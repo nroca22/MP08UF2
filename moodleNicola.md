@@ -52,7 +52,10 @@ Amb la comanda `wget` descarregarem l'ultima versiò de moodle des-de la pàgina
 
 ![image](https://user-images.githubusercontent.com/114423065/203131762-9817a25f-821e-46f1-ab3f-b335f1745143.png)
 
-Descomprimirem el fitxer amb unzip i el fitxer que acabem de descarregar. (nota, cal tenir el paquet zip instal·lat) 
+Descomprimirem el fitxer amb unzip i el fitxer que acabem de descarregar a la carpeta `/var/www/html/moodle`. (nota, cal tenir el paquet zip instal·lat) 
 
-![image](https://user-images.githubusercontent.com/114423065/203132044-556ae30a-9de7-49d1-961d-1ac238ee0963.png)
+![image](https://user-images.githubusercontent.com/114423065/203132543-8e7c6a23-8ed3-4563-bb46-5ae6b9ef96b5.png)
+
+![image](https://user-images.githubusercontent.com/114423065/203132694-747b81d0-6747-4681-9cb8-9dd66264f8a6.png)
+
 
