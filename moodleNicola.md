@@ -91,6 +91,40 @@ I sortirem de la consola
 ![image](https://user-images.githubusercontent.com/114423065/204079509-16d4e013-f6be-44e4-a670-55a6c74bcd60.png)
 
 
+## Configuració de Moodle
+
+Per començar a configurara moodle necessitarém entrar a la ip de la màquina seguit de `/moodle/moodle/install.php`
+
+![image](https://user-images.githubusercontent.com/114423065/204079565-8906baa1-c462-4216-82ad-9d0ed5f379d8.png)
+
+Sel·leccionarém l'idioma:
+
+![image](https://user-images.githubusercontent.com/114423065/204079591-976ad32c-d017-4d51-b5e0-186b17139429.png)
+
+
+Comprovarém quines extensions ens fan falta
+
+![image](https://user-images.githubusercontent.com/114423065/204079609-7682ccf5-17c7-4029-9a07-93936597270d.png)
+
+Instal·larém cURL i zip
+
+![image](https://user-images.githubusercontent.com/114423065/204079726-d675c06e-fb7e-4a48-b69c-9e90bad17b99.png)
+
+Després reiniciarém el servei apache2, i ja no auria de sortir el missatge d'avís
+
+I configurarém la ruta del directori de dades amb la carpeta que hem creat anteriorment
+
+![image](https://user-images.githubusercontent.com/114423065/204079807-44e1a531-d479-4a7c-99cb-5dad65f6d88c.png)
+
+Sel·leccionarém el servidor de base de dades
+
+![image](https://user-images.githubusercontent.com/114423065/204079886-a444c302-b5bd-4eef-88ab-f4b8bbca4a5c.png)
+
+I li donarém l'informació necessaria
+
+![image](https://user-images.githubusercontent.com/114423065/204079902-5fb56c6f-51ef-4cc3-b007-b615bab443bc.png)
+
+
 
 
 
