@@ -58,4 +58,41 @@ Descomprimirem el fitxer amb unzip i el fitxer que acabem de descarregar a la ca
 
 ![image](https://user-images.githubusercontent.com/114423065/203132694-747b81d0-6747-4681-9cb8-9dd66264f8a6.png)
 
+Ara canviarém els propietaris de la carpeta moodle que hem descomprimit, tant el grup com l'usuari
+
+![1](https://user-images.githubusercontent.com/114423065/204079242-17233f84-f1e7-4381-bbd5-d938391854f6.png)
+
+## Crar directoris de fitxers
+Ara crearém la carpeta que contindrà les dades d'usuari a la home i li canviarém el grup i usuari propietari:
+
+![image](https://user-images.githubusercontent.com/114423065/204079280-db593123-41d1-4dd7-915d-0e65549b50d3.png)
+
+
+## Configuració de la base de dades
+
+Accedirém a la consola de configuració de la base de dades com a root:
+
+![image](https://user-images.githubusercontent.com/114423065/204079400-a5d0ce92-7046-4fee-9588-dd1a04e3c21c.png)
+
+Crearém l'usuari amb la seva contrasenya per a moodle:
+
+![image](https://user-images.githubusercontent.com/114423065/204079420-a483da59-cf77-4d0b-9b0a-152a0a545b55.png)
+
+Crearém la base de dades de moodle
+
+![image](https://user-images.githubusercontent.com/114423065/204079458-5cd99b2d-af9d-4991-bb91-584932077545.png)
+
+I li donarém control a la base a l'usuari que hem creat anteriorment
+
+![image](https://user-images.githubusercontent.com/114423065/204079475-660606c9-0721-49b1-a157-4a782efd6294.png)
+
+I sortirem de la consola
+
+![image](https://user-images.githubusercontent.com/114423065/204079509-16d4e013-f6be-44e4-a670-55a6c74bcd60.png)
+
+
+
+
+
+
 
