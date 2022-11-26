@@ -7,7 +7,6 @@ Per instal·lar moodle necessitem: Apache, PHP i MariaDB
 
 - Instal·lació de Apache
 
-
 ![image](https://user-images.githubusercontent.com/114423065/203127704-afe933bb-88cb-4b1f-afb0-26ab1d84a810.png)
 
 - Comprovar que Apache funciona correctament des-de la maquina host
@@ -40,9 +39,9 @@ Per instal·lar moodle necessitem: Apache, PHP i MariaDB
 
 - Actualitzar `amb apt update`
 
-- Instal·lar PHP 7.3
+- Instal·lar PHP 8.0, php8.0-curl i php8.0-zip
 
-![image](https://user-images.githubusercontent.com/114423065/203127038-5be54abd-75df-4f6e-91d4-c0f1d3ba52f0.png)
+![image](https://user-images.githubusercontent.com/114423065/204081197-33b93682-f691-44bf-ad64-46bbef43f7af.png)
 
 
 ## Descarrega i configuració de moodle
