@@ -130,3 +130,4 @@ I li donarém l'informació necessaria
 
 
 ![image](https://user-images.githubusercontent.com/114423065/204083873-5780836b-5f8d-42e7-87eb-ec9f278ba82b.png)
+![image](https://user-images.githubusercontent.com/114423065/204260519-6ba940d3-666f-4294-a332-977c45f52b0a.png)
