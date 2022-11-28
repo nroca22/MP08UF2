@@ -172,8 +172,11 @@ Per sol·lucionar el error max_input_vars editarem el fitxer php.ini d'apache:
 
 ![image](https://user-images.githubusercontent.com/114423065/204332473-81ebbf4c-00a2-4530-b846-202f95008b28.png)
 
-Buscarém la línia del max_input_vars i el canviarém al valor que ens demani
+Buscarém la línia del max_input_vars i el canviarém al valor que ens demani, també la descomentarém treient el `;` de l'inici de línia
 
-![image](https://user-images.githubusercontent.com/114423065/204332849-4636b2c3-dc0f-4174-9a0d-ad995f3b2dd4.png)
+![image](https://user-images.githubusercontent.com/114423065/204333595-f295864a-e709-4639-9c7f-5aa7656c29a7.png)
 
 Després reiniciarém el servei apache2
+
+![image](https://user-images.githubusercontent.com/114423065/204333088-99433aca-c31e-460c-bd63-2a1d46913258.png)
+
