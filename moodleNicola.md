@@ -151,3 +151,9 @@ I ja sortirá aquesta pantalla on ja podrém configurar moodle
 Ara surt que ens falten les següents extensións
 
 ![image](https://user-images.githubusercontent.com/114423065/204329309-51568090-98ae-481b-92fc-2e037bb37dab.png)
+
+![image](https://user-images.githubusercontent.com/114423065/204331036-7d3e2288-706e-4f83-ac79-f213d49a8f5f.png)
+
+I després reiniciarem apache
+
+![image](https://user-images.githubusercontent.com/114423065/204331415-8f88f0ad-1b2c-46db-870c-ac7a6045bed8.png)
