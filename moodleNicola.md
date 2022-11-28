@@ -133,5 +133,17 @@ Una vegada arreglat, m'ha sortit aquest error:
 
 ![image](https://user-images.githubusercontent.com/114423065/204326854-35bc80a1-8bd9-4c34-a00f-334dbe8e0da5.png)
 
+L'arreglem instal·lant l'extensió XML de php amb la seva versió corresponent:
 
+![image](https://user-images.githubusercontent.com/114423065/204327672-351c42cd-1cc1-4d2a-b287-dd1b9802af1d.png)
+
+Torna a sortir un altre error de mbstring i l'arreglem instal·lant-lo
+
+![image](https://user-images.githubusercontent.com/114423065/204328379-eef1a243-d194-4f65-99d6-3b54224e450b.png)
+
+![image](https://user-images.githubusercontent.com/114423065/204328214-f0d73a75-c634-482e-bdcb-b69cfbee4bc5.png)
+
+I ja sortirá aquesta pantalla on ja podrém configurar moodle
+
+![image](https://user-images.githubusercontent.com/114423065/204328739-4c062e8b-2bd6-4a6c-9382-caf2bb5c2dae.png)
 
