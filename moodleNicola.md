@@ -188,3 +188,11 @@ Una vegada fet aixó l'apartat de "other errors" ens auria de sortir buida, o am
 Una vegada li doném al botó de continuar ens auria de sortir aquesta pantalla:
 
 ![image](https://user-images.githubusercontent.com/114423065/204334542-1be73606-8a33-44ce-8816-cca661a7aa60.png)
+
+Una vegada l'instal·lació acabada ens sortirà una pantalla de checks:
+
+![image](https://user-images.githubusercontent.com/114423065/204353904-38788bd9-2df9-4134-bf83-6e88b5551764.png)
+
+Configurarém l'usuari admin:
+
+![image](https://user-images.githubusercontent.com/114423065/204355241-9dcee0bd-4417-4614-9a78-a68a143bdbf0.png)
