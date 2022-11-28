@@ -159,7 +159,21 @@ I després reiniciarem apache
 ![image](https://user-images.githubusercontent.com/114423065/204331415-8f88f0ad-1b2c-46db-870c-ac7a6045bed8.png)
 
 
-Una vegada apache reiniciat i la pàgina recarregada no auriem de tenir més errors:
+Una vegada apache reiniciat i la pàgina recarregada no auriem de tenir més errors de servidor:
 
 ![image](https://user-images.githubusercontent.com/114423065/204331505-c6bfcbe5-6402-4da9-8af7-8609c2d53490.png)
 
+
+Una vegada tinguessim les extensions requerides, a la part de baix de la pàgina, ens sortiràn altres errors:
+
+![image](https://user-images.githubusercontent.com/114423065/204332003-3d319236-6ab7-4e62-8426-eb20ba5547e6.png)
+
+Per sol·lucionar el error max_input_vars editarem el fitxer php.ini d'apache:
+
+![image](https://user-images.githubusercontent.com/114423065/204332473-81ebbf4c-00a2-4530-b846-202f95008b28.png)
+
+Buscarém la línia del max_input_vars i el canviarém al valor que ens demani
+
+![image](https://user-images.githubusercontent.com/114423065/204332849-4636b2c3-dc0f-4174-9a0d-ad995f3b2dd4.png)
+
+Després reiniciarém el servei apache2
