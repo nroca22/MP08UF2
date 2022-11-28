@@ -147,3 +147,7 @@ I ja sortirá aquesta pantalla on ja podrém configurar moodle
 
 ![image](https://user-images.githubusercontent.com/114423065/204328739-4c062e8b-2bd6-4a6c-9382-caf2bb5c2dae.png)
 
+
+Ara surt que ens falten les següents extensións
+
+![image](https://user-images.githubusercontent.com/114423065/204329309-51568090-98ae-481b-92fc-2e037bb37dab.png)
