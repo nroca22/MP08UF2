@@ -157,3 +157,9 @@ Ara surt que ens falten les següents extensións
 I després reiniciarem apache
 
 ![image](https://user-images.githubusercontent.com/114423065/204331415-8f88f0ad-1b2c-46db-870c-ac7a6045bed8.png)
+
+
+Una vegada apache reiniciat i la pàgina recarregada no auriem de tenir més errors:
+
+![image](https://user-images.githubusercontent.com/114423065/204331505-c6bfcbe5-6402-4da9-8af7-8609c2d53490.png)
+
