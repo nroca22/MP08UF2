@@ -123,11 +123,15 @@ I li donarém l'informació necessaria
 
 ![image](https://user-images.githubusercontent.com/114423065/204079902-5fb56c6f-51ef-4cc3-b007-b615bab443bc.png)
 
+#### Un error amb l'informació de login
+Un problema que he tingut ha sigut el següent, m'he equivocat amb la contrasenya de la base de dades al introduïrla a moodle i sortia aquest error:
 
-
-
-
-
-
-![image](https://user-images.githubusercontent.com/114423065/204083873-5780836b-5f8d-42e7-87eb-ec9f278ba82b.png)
 ![image](https://user-images.githubusercontent.com/114423065/204260519-6ba940d3-666f-4294-a332-977c45f52b0a.png)
+
+
+Una vegada arreglat, m'ha sortit aquest error:
+
+![image](https://user-images.githubusercontent.com/114423065/204326854-35bc80a1-8bd9-4c34-a00f-334dbe8e0da5.png)
+
+
+
