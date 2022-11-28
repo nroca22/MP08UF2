@@ -194,5 +194,7 @@ Una vegada l'instal·lació acabada ens sortirà una pantalla de checks:
 ![image](https://user-images.githubusercontent.com/114423065/204353904-38788bd9-2df9-4134-bf83-6e88b5551764.png)
 
 Configurarém l'usuari admin:
+![image](https://user-images.githubusercontent.com/114423065/204355489-50e098a4-5e9a-4837-ab2a-505e9f2c1581.png)
 
-![image](https://user-images.githubusercontent.com/114423065/204355241-9dcee0bd-4417-4614-9a78-a68a143bdbf0.png)
+
+![image](https://user-images.githubusercontent.com/114423065/204356030-1d8b464c-90c9-4bd1-956c-6d176aceddd9.png)
