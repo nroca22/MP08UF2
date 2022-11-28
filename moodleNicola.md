@@ -198,3 +198,7 @@ Configurarém l'usuari admin:
 
 
 ![image](https://user-images.githubusercontent.com/114423065/204356030-1d8b464c-90c9-4bd1-956c-6d176aceddd9.png)
+
+![image](https://user-images.githubusercontent.com/114423065/204356591-8c16aa55-e5d2-4b94-934d-d74e686c236c.png)
+
+![image](https://user-images.githubusercontent.com/114423065/204356704-103e40a8-1f24-482c-8695-0565a34c951c.png)
