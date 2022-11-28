@@ -180,3 +180,11 @@ Després reiniciarém el servei apache2
 
 ![image](https://user-images.githubusercontent.com/114423065/204333088-99433aca-c31e-460c-bd63-2a1d46913258.png)
 
+Una vegada fet aixó l'apartat de "other errors" ens auria de sortir buida, o amb errors que ens recomana sol·lucionar i un botó per continuar
+
+![image](https://user-images.githubusercontent.com/114423065/204334263-6977d737-5576-4bb1-bfa8-89597b961068.png)
+
+
+Una vegada li doném al botó de continuar ens auria de sortir aquesta pantalla:
+
+![image](https://user-images.githubusercontent.com/114423065/204334542-1be73606-8a33-44ce-8816-cca661a7aa60.png)
