@@ -193,6 +193,8 @@ Una vegada l'instal·lació acabada ens sortirà una pantalla de checks:
 
 ![image](https://user-images.githubusercontent.com/114423065/204353904-38788bd9-2df9-4134-bf83-6e88b5551764.png)
 
+### Configuració d'administrador moodle:
+
 Configurarém l'usuari admin:
 ![image](https://user-images.githubusercontent.com/114423065/204355489-50e098a4-5e9a-4837-ab2a-505e9f2c1581.png)
 
@@ -200,6 +202,9 @@ Configurarém l'usuari admin:
 ![image](https://user-images.githubusercontent.com/114423065/204356030-1d8b464c-90c9-4bd1-956c-6d176aceddd9.png)
 
 ![image](https://user-images.githubusercontent.com/114423065/204356591-8c16aa55-e5d2-4b94-934d-d74e686c236c.png)
+
+
+### Creació de categories i cursos:
 
 ![image](https://user-images.githubusercontent.com/114423065/204356704-103e40a8-1f24-482c-8695-0565a34c951c.png)
 
@@ -222,3 +227,15 @@ Crearém els cursos i repetirém fins a tenir tots els cursos:
 Aques és el resultat dels cursos:
 
 ![image](https://user-images.githubusercontent.com/114423065/205706935-9906bc9d-9943-479e-9adb-7678346e546d.png)
+
+
+### Usuaris
+
+Preguntes:
+
+- *Quins tipus d'usuaris (rols diferents) existeixen a Moodle?*
+
+- *Quins rols poden assignar cada tipus d'usuaris?
+
+- *Crea tres usuaris:
+
