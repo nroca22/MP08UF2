@@ -233,9 +233,36 @@ Aques és el resultat dels cursos:
 
 Preguntes:
 
-- *Quins tipus d'usuaris (rols diferents) existeixen a Moodle?*
+- **Quins tipus d'usuaris (rols diferents) existeixen a Moodle?**
 
-- *Quins rols poden assignar cada tipus d'usuaris?
+1. Admins
+2. Creadors de cursos
+3. Professors
+4. Estudiants
+5. Convidats
 
-- *Crea tres usuaris:
+- **Quins rols poden assignar cada tipus d'usuaris?**
 
+
+Crea tres usuaris:
+
+![image](https://user-images.githubusercontent.com/114423065/205710323-6db1684e-a90b-45c8-a5f2-04f6947af965.png)
+
+Un Professor anomenat Cognom_1_profe.
+
+![image](https://user-images.githubusercontent.com/114423065/205710602-0dde70a5-8c43-4624-9791-9dcbffab9ccd.png)
+
+
+Un Professor anomenat Cognom_2_profe.
+
+![image](https://user-images.githubusercontent.com/114423065/205710809-a390d47e-ebc3-47ff-b078-fc27936c10d4.png)
+
+
+Un professor No editor anomenat Cognom_3_profe.
+![image](https://user-images.githubusercontent.com/114423065/205712579-2c4f2f13-6f68-4c98-ba40-c39463ce0f2f.png)
+
+Després anirém a "Pagina principal" i després a "Participantes" dintre d'aquesta categoria podrém editar els rols de cadascun dels usuaris
+
+![image](https://user-images.githubusercontent.com/114423065/205712515-66954238-e663-402f-b7c0-ef77c5196b7d.png)
+
+![image](https://user-images.githubusercontent.com/114423065/205713232-2062114c-9a31-4c6f-a5d7-93df76e42f31.png)
