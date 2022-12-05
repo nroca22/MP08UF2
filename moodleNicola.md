@@ -207,7 +207,7 @@ Per crear cursos i categories tenim d'entrar al moodle amb usuari administrador,
 
 ![image](https://user-images.githubusercontent.com/114423065/205688251-b009b396-0498-4e3c-b4a8-2f09a18fe9f1.png)
 
-Crearém una nova categoria, la seva categoria pare serà "Superior":
+Crearém una nova categoria, la seva categoria pare serà "Superior", repetirem fins tenir totes les categories:
 
 ![image](https://user-images.githubusercontent.com/114423065/205690606-17fb2230-80e1-4e03-ba0c-f8817fecb30d.png)
 
@@ -215,3 +215,6 @@ Ara crearém nous cursos:
 
 ![image](https://user-images.githubusercontent.com/114423065/205694783-8b24b746-ef91-4f0d-aa44-a6ccc2b1e9a7.png)
 
+Crearém els cursos i repetirém fins a tenir tots els cursos:
+
+![image](https://user-images.githubusercontent.com/114423065/205695239-af8cbc4e-0705-4190-b791-771bf12ce228.png)
