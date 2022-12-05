@@ -244,7 +244,7 @@ Preguntes:
 - **Quins rols poden assignar cada tipus d'usuaris?**
 
 
-Crea tres usuaris:
+- **Crea tres usuaris:**
 
 ![image](https://user-images.githubusercontent.com/114423065/205710323-6db1684e-a90b-45c8-a5f2-04f6947af965.png)
 
@@ -266,3 +266,6 @@ Després anirém a "Pagina principal" i després a "Participantes" dintre d'aque
 ![image](https://user-images.githubusercontent.com/114423065/205712515-66954238-e663-402f-b7c0-ef77c5196b7d.png)
 
 ![image](https://user-images.githubusercontent.com/114423065/205713232-2062114c-9a31-4c6f-a5d7-93df76e42f31.png)
+
+- **Crea un alumne anomenat Cognom_1_alumne.**
+
