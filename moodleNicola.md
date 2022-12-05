@@ -202,3 +202,11 @@ Configurarém l'usuari admin:
 ![image](https://user-images.githubusercontent.com/114423065/204356591-8c16aa55-e5d2-4b94-934d-d74e686c236c.png)
 
 ![image](https://user-images.githubusercontent.com/114423065/204356704-103e40a8-1f24-482c-8695-0565a34c951c.png)
+
+Per crear cursos i categories tenim d'entrar al moodle amb usuari administrador, i anar a l'apartat de "Administración de sitio" després a "Cursos" i a "Administrar cursos y categorias":
+
+![image](https://user-images.githubusercontent.com/114423065/205688251-b009b396-0498-4e3c-b4a8-2f09a18fe9f1.png)
+
+Crearém una nova categoria:
+
+![image](https://user-images.githubusercontent.com/114423065/205690606-17fb2230-80e1-4e03-ba0c-f8817fecb30d.png)
