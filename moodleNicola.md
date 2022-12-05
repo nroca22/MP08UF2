@@ -219,3 +219,6 @@ Crearém els cursos i repetirém fins a tenir tots els cursos:
 
 ![image](https://user-images.githubusercontent.com/114423065/205695239-af8cbc4e-0705-4190-b791-771bf12ce228.png)
 
+Aques és el resultat dels cursos:
+
+![image](https://user-images.githubusercontent.com/114423065/205706935-9906bc9d-9943-479e-9adb-7678346e546d.png)
