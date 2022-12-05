@@ -218,3 +218,4 @@ Ara crearém nous cursos:
 Crearém els cursos i repetirém fins a tenir tots els cursos:
 
 ![image](https://user-images.githubusercontent.com/114423065/205695239-af8cbc4e-0705-4190-b791-771bf12ce228.png)
+
