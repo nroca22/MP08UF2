@@ -216,6 +216,11 @@ Crearém una nova categoria, la seva categoria pare serà "Superior", repetirem 
 
 ![image](https://user-images.githubusercontent.com/114423065/205690606-17fb2230-80e1-4e03-ba0c-f8817fecb30d.png)
 
+Aquest serà el resultat de categories i sub-categories:
+
+![image](https://user-images.githubusercontent.com/114423065/207098376-8eb7703e-5b98-4444-951d-d1614426ad49.png)
+
+
 Ara crearém nous cursos:
 
 ![image](https://user-images.githubusercontent.com/114423065/205694783-8b24b746-ef91-4f0d-aa44-a6ccc2b1e9a7.png)
