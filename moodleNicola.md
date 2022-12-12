@@ -309,5 +309,38 @@ Revisant la llista d'usuaris podem veure si s'han afegit:
 ![image](https://user-images.githubusercontent.com/114423065/207120973-25311458-ce2f-4aa7-a856-3791e6db478c.png)
 
 - **Fes que Cognom_1_profe sigui professor dels cursos: MP04, MP12, MP08 i MP07.**
+
+Anirém a la configuració del curs i després a matricular usuarios:
+
+![image](https://user-images.githubusercontent.com/114423065/207122014-a41fa983-41cd-485d-aee3-f984024b4d06.png)
+
+Després sel·leccionarém l'usuari i el seu rol:
+
+![image](https://user-images.githubusercontent.com/114423065/207122254-96a0a026-6874-493d-8a47-7413e9546921.png)
+
+![image](https://user-images.githubusercontent.com/114423065/207122428-8636fa5c-2019-407c-a465-540be2756eb3.png)
+
+![image](https://user-images.githubusercontent.com/114423065/207122561-a8429584-c757-4853-b259-e69f476b3f7e.png)
+
+
 - **Fes que Cognom_2_profe sigui professor dels cursos: MP10, MP06 i TUTORIA.**
+
+![image](https://user-images.githubusercontent.com/114423065/207122831-cb5a7c67-006f-4b48-bcec-4d9c3b628d07.png)
+
+![image](https://user-images.githubusercontent.com/114423065/207122885-1071e2e2-9650-4833-8d47-21ecd8fedee6.png)
+
+![image](https://user-images.githubusercontent.com/114423065/207122948-a563e523-d6f1-4971-8167-efdc5e1ba08b.png)
+
+
 - **Fes que Cognom_3_profe sigui professor de tots els cursos.**
+
+![image](https://user-images.githubusercontent.com/114423065/207123785-7e9cda95-cf3c-4590-9ead-6aa9c10e9f4e.png)
+![image](https://user-images.githubusercontent.com/114423065/207123855-a1204b60-fcae-4345-beb3-12135741eeda.png)
+![image](https://user-images.githubusercontent.com/114423065/207123900-994a0870-7fb4-4f52-9e80-f87f5b12259f.png)
+![image](https://user-images.githubusercontent.com/114423065/207123957-7d7308d8-6c57-491a-bc13-229b7914029d.png)
+![image](https://user-images.githubusercontent.com/114423065/207124013-58f944a7-c0db-4690-b9f3-2b72dbac8f42.png)
+![image](https://user-images.githubusercontent.com/114423065/207124116-75856f32-9f4f-4c1e-9918-83aee3157582.png)
+![image](https://user-images.githubusercontent.com/114423065/207124228-1e628f5d-2cce-41be-8adc-6dd27989819c.png)
+
+
+
