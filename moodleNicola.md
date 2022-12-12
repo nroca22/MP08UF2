@@ -308,3 +308,6 @@ Revisant la llista d'usuaris podem veure si s'han afegit:
 
 ![image](https://user-images.githubusercontent.com/114423065/207120973-25311458-ce2f-4aa7-a856-3791e6db478c.png)
 
+- **Fes que Cognom_1_profe sigui professor dels cursos: MP04, MP12, MP08 i MP07.**
+- **Fes que Cognom_2_profe sigui professor dels cursos: MP10, MP06 i TUTORIA.**
+- **Fes que Cognom_3_profe sigui professor de tots els cursos.**
