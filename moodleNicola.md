@@ -284,3 +284,27 @@ I després omplirem les dades de l'usuari:
 ![Selecció_032](https://user-images.githubusercontent.com/114423065/207115834-2796fe8a-7b1b-4e14-b27d-5143f2daeb53.png)
 
 
+- **Afegeix un fitxer d'usuaris des de fitxer (4 companys/es de classe) simultàniament carregant un fitxer de dades, com es veu a la imatge.**
+
+Crearém l'arxiu amb l'informació requerida:
+
+![image](https://user-images.githubusercontent.com/114423065/207119995-a8793cfe-2d16-423c-9309-baadea48aca7.png)
+
+Penjarém el fitxer:
+
+![image](https://user-images.githubusercontent.com/114423065/207118160-24c4dad8-fa34-4c41-a35b-91088932c218.png)
+
+
+I aquesta és la pantalla de comprovació de dades
+
+![image](https://user-images.githubusercontent.com/114423065/207120313-72ba4782-5b7b-439d-a503-6374de701ae4.png)
+
+Aquesta és la següent pantalla, ens hem de fixar si ens dona cap error:
+
+![image](https://user-images.githubusercontent.com/114423065/207120788-19076f26-1aa5-41dd-860a-88a2faeee1ac.png)
+
+
+Revisant la llista d'usuaris podem veure si s'han afegit:
+
+![image](https://user-images.githubusercontent.com/114423065/207120973-25311458-ce2f-4aa7-a856-3791e6db478c.png)
+
