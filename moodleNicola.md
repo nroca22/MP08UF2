@@ -274,3 +274,13 @@ Després anirém a "Pagina principal" i després a "Participantes" dintre d'aque
 
 - **Crea un alumne anomenat Cognom_1_alumne.**
 
+Anirém al llistat d'alumnes i després a "crear nuevo usuario"
+
+![Selecció_031](https://user-images.githubusercontent.com/114423065/207115757-6215c226-472b-4e69-a513-ca3a72dd1047.png)
+
+
+I després omplirem les dades de l'usuari:
+
+![Selecció_032](https://user-images.githubusercontent.com/114423065/207115834-2796fe8a-7b1b-4e14-b27d-5143f2daeb53.png)
+
+
