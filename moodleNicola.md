@@ -350,9 +350,13 @@ Després sel·leccionarém l'usuari i el seu rol:
 
 - **Què són les Cohorts?**
 
+Les cohorts són grups a tota l'amplada del lloc o de tota una categoria de cursos. 
 
 
 - **Perquè serveixen?**
+
+El propòsit de les cohorts és permetre a tots els membres de la cohort ser inscrits (matriculats) fàcilment en un curs. 
+
 
 - **Què són els grups?**
 
