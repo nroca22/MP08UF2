@@ -344,3 +344,18 @@ Després sel·leccionarém l'usuari i el seu rol:
 
 
 
+- **Afegeix a tots els alumnes a tots els cursos (els 5).**
+
+- **Mostra l'apartat Participants de cada curs.**
+
+- **Què són les Cohorts?**
+
+
+
+- **Perquè serveixen?**
+
+- **Què són els grups?**
+
+- **Perquè serveixen?**
+
+- **Fes dos grups de Aplicacions Web, el A i el B. Mostra els dos grups.**
