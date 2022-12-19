@@ -360,6 +360,26 @@ El propòsit de les cohorts és permetre a tots els membres de la cohort ser ins
 
 - **Què són els grups?**
 
+Serveixen per agrupar els usuaris que son com alumnes per poder donar-los hi estructura de grup de classe.
+
 - **Perquè serveixen?**
 
+Per organitzar millor els alumnes.
+
 - **Fes dos grups de Aplicacions Web, el A i el B. Mostra els dos grups.**
+
+Anirém a l'apartat de Pagina principal, després a participants i després al desplegable sel·leccionar Grupos.
+
+![image](https://user-images.githubusercontent.com/114423065/208452325-7666da29-cec1-43af-b3ac-6ab8f36ff850.png)
+
+Aqui dintre crear un nou grup:
+
+![image](https://user-images.githubusercontent.com/114423065/208453005-b4cb8210-6c6d-4b55-a7f8-318782206d6d.png)
+
+I omplirém les seves dades:
+
+![image](https://user-images.githubusercontent.com/114423065/208453123-1f26c224-e7ab-4bd2-b237-aa011aa836b7.png)
+
+Aquest és el resultat dels grups:
+
+![image](https://user-images.githubusercontent.com/114423065/208453302-bc396656-f5a0-478c-856f-6e1399f1d5c0.png)
