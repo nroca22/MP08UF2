@@ -100,8 +100,13 @@ A l'apartat de l'usuari de preferencies message preferences:
 
 - **Dins del tema crea una tasca anomenada prova inicial amb 10 preguntes molt bàsiques sobre Python. Pots trobar info aqui.**
 
+![image](https://user-images.githubusercontent.com/114423065/208492879-ecf3f0e7-4e10-4504-985b-6ce0b48ea66c.png)
+
+![image](https://user-images.githubusercontent.com/114423065/208492904-411eaa5a-e13b-4231-a8d6-e677ce6ccb86.png)
 
 - **Fes que els alumnes contestin la tasca (mínim 3).**
+
+
 - **Qualifica la tasca de l'alumnat.**
 - **Mostra les qualificacions de l'alumnat.**
 - **Com a perfil d'alumne mostra la teva qualificació.**
